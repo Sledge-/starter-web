@@ -17,3 +17,7 @@ Adding a section on how to contribute.
 ## Deployment
 
 Deploy using github.
+
+### Copyright
+
+2014 Git.Training.
